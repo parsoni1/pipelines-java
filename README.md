@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/PARSONI/DevOpsExample/_apis/build/status/parsoni1.pipelines-java?branchName=master)](https://dev.azure.com/PARSONI/DevOpsExample/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
